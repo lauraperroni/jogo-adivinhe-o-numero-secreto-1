@@ -19,7 +19,7 @@ Este projeto é um simples jogo de adivinhação de número, desenvolvido em Jav
 
 **Como Executar**
 
-1. Acesse o jogo [aqui](https://lauraperroni.github.io/logica-js-1/)
+1. Acesse o jogo [aqui](https://lauraperroni.github.io/jogo-adivinhe-o-numero-secreto-1/)
 2. Uma mensagem de boas-vindas será exibida ao jogador.
 3. O jogador deve inserir palpites até adivinhar corretamente o número secreto.
 4. O jogo fornecerá feedback sobre se o palpite é maior ou menor que o número secreto.
